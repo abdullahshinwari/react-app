@@ -13,6 +13,10 @@ function App() {
     // console.log("Clicked", Math.random());
     // counter = counter + 1
     setCounter(counter + 1)
+    // setCounter(prevCounter => prevCounter + 1)
+    // setCounter(prevCounter => prevCounter + 1)
+    // setCounter(prevCounter => prevCounter + 1)
+    // setCounter(prevCounter => prevCounter + 1)
     console.log("Clicked", counter);
   }
 
